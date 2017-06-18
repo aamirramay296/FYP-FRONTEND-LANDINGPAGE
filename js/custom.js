@@ -36,3 +36,19 @@ $('.ui.search.location').search({
 
 });
 */
+var content = [
+  { title: 'Physics' },
+  { title: 'Chemistry' },
+  { title: 'Biology' },
+  { title: 'Mathematics' },
+  { title: 'Computer Science' },
+  { title: 'Urdu' },
+  { title: 'Pakistan Studies' },
+  { title: 'Islamiat' }
+  
+ 
+];
+$('.ui.search')
+  .search({
+    source: content
+  });
