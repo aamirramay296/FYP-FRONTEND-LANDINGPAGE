@@ -298,9 +298,28 @@
 } 
 .hireUs h4 {
 	text-align: center;
-	color: #3C4858;
+	/* color: #3C4858; */
+	color: #00aa5c;
 }
 
 
 /*===================================*/
 /*===========Hire Us End==================*/
+
+
+/*===================================*/
+/*===========No of Students Parents ==================*/
+
+.noOfS {
+	background: #00aa5c;
+	/*background: #3C4858; */
+	padding-bottom: 70px;
+	padding-top: 80px;
+
+}
+
+
+/* ====== Subjects ============== */
+.subjects .move-text {
+	margin-left: 20px;
+}
