@@ -9,6 +9,7 @@ $('.ui.sidebar').sidebar('attach events','.toc.item');
 var content = [
 
   { title:'Physics' },
+  { title:'Quran' },
   { title:'Chemistry' },
   { title:'Biology' },
   { title:'Mathematics' },
