@@ -298,10 +298,19 @@
 } 
 .hireUs h4 {
 	text-align: center;
-	/* color: #3C4858; */
-	color: #00aa5c;
+	color: #3C4858; 
+	/* color: #00aa5c; */
 }
+.hireUs h1 {
+	white-space: nowrap;
+    font-size: 30px;
+	line-height: 50px;
+	font-weight: 300;
+	color: #3C4858;
+	font-family: 'Segoe UI',sans-serif!important;
 
+
+}
 
 /*===================================*/
 /*===========Hire Us End==================*/
@@ -343,7 +352,8 @@
 	padding-left: 50px;
 }
 .subjects h4 {
-	color: #00aa5c;
+	color:#3C4858;
+	/*#00aa5c*/
 }
 .subjects {
 	text-align: center;
