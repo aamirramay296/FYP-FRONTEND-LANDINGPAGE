@@ -344,6 +344,7 @@
 
 
 
+
 /* ====== Subjects ============== */
 .subjects .move-text {
 	margin-left: 22px;
@@ -357,4 +358,12 @@
 }
 .subjects {
 	text-align: center;
+}
+.subjects h1 {
+	white-space: nowrap;
+    font-size: 30px;
+	line-height: 50px;
+	font-weight: 300;
+	color: #3C4858;
+	font-family: 'Segoe UI',sans-serif!important;
 }
